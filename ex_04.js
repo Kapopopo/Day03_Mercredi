@@ -1,3 +1,3 @@
 function capitalize(words){
-    return words.map(caca => caca.toUpperCase());
+    return words.map(word => word.toUpperCase());
 }
